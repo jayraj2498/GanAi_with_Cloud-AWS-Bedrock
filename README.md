@@ -1,0 +1,1 @@
+# GanAi_with_Cloud-AWS-Bedrock
