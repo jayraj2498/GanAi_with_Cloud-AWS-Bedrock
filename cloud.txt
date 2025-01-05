@@ -1,0 +1,64 @@
+GEnai proj lifecycle LLMops (genai on cloud) 
+
+
+step 1 : Defining the usecase 
+
+- it can be Rag application , text summerization , Chatbot , baed on diff - diff usecase 
+
+
+step 2 : choosing the right model 
+
+A) - wheather you are usign --> "foundation model" and solve usecase 
+    foundation model is opanai , llama2 , gemini , clody , mistral 
+
+    most of the  generic use cases you can use those kind of foundation model and solve usecase 
+
+    - in foundation model we solve usecase AND on top of it if we want tht our model behave well on custom data
+    we do "finetunning" by using (llora , Qloora )
+
+
+B) - wheather you want to build your own "custom LLM "
+
+    custom LLM Building LLM model from crash  
+
+
+
+After selecting Right Kind of Model their main 3 task you need to follow :
+
+    1) U can use Prompt enginnering and solve usecase 
+    2) finetunning  
+    3) Training with Human feedback  
+
+    Evaluate the model: 
+    after applying all the above step then we have to " Evaluate " the model tht how is your model Performing 
+    by usign diff diff performance matrix step  
+
+
+    so , combine this step our model is ready  
+
+
+
+
+
+step 3 : Deployment & further integration diff diff applicaion 
+
+    step A) 
+
+    optimize and deploye models   <<- this deployement is done for infrencing 
+    & here is where LLMops is used 
+
+    - here we use diff diff tech --> ex   Groq 
+
+    - here we use all services AWS , GCP , AZURE  
+
+
+    step B ) 
+
+    In application Integration we build LLM powerd application 
+    and solve diff diff usecases  
+
+
+
+
+** this the entire GENAI project lifecycle .......
+

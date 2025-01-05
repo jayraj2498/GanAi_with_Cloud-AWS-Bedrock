@@ -1,0 +1,11 @@
+Amazon bedrock :- it is easyeist way to create genai applicaions and foundation model  within AWS platform 
+
+
+right now inside market if you have to use the LLM model every model have diff diff setup 
+
+Amazon bedrock
+
+Amazon bedrock -> provide you all diff diff model in one platform wher all diff -diff model is their 
+
+
+it is single platform 
